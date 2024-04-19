@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Boulevard</string>
+    <string name="api_key">adee4a69a81846a28c83d13f0eb644c8</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+    </string-array>
+</resources>
