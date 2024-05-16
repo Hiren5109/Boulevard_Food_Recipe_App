@@ -10,13 +10,14 @@
 
 # <h3>Smart Search: Find recipes quickly and easily by searching for specific dishes, ingredients, or even dietary restrictions. Our intelligent search algorithm delivers accurate results every time.</h3>
 
-# Step-by-Step Instructions: Detailed instructions accompanied by high-quality images guide you through each recipe, making cooking a breeze even for beginners.
+# <h3>Step-by-Step Instructions: Detailed instructions accompanied by high-quality images guide you through each recipe, making cooking a breeze even for beginners.
+</h3>
 
-# Shopping List: Create a shopping list directly from the ingredients list of your chosen recipes. Say goodbye to forgetting key ingredients while at the store.
+# <h3>Shopping List: Create a shopping list directly from the ingredients list of your chosen recipes. Say goodbye to forgetting key ingredients while at the store.</h3>
 
-# Cooking Timers: Built-in timers help you stay on track while cooking, ensuring your dishes are cooked to perfection every time.
+# <h3>Cooking Timers: Built-in timers help you stay on track while cooking, ensuring your dishes are cooked to perfection every time.</h3>
 
-# User Reviews and Ratings: Read reviews and ratings from other users to discover the most popular and highly-rated recipes.
+# <h3>User Reviews and Ratings: Read reviews and ratings from other users to discover the most popular and highly-rated recipes.</h3>
 
-# Share with Friends: Impress your friends and family by sharing your favorite recipes via social media, email, or messaging apps directly from the app.
+# <h3>Share with Friends: Impress your friends and family by sharing your favorite recipes via social media, email, or messaging apps directly from the app.</h3>
 
