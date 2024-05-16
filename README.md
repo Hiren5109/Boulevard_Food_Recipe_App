@@ -1,14 +1,14 @@
 # Boulevard_Food_Recipe_App
 
-# Boulevard is your go-to app for all things cooking, bringing you a world of culinary delights right to your fingertips. Whether you're a seasoned chef or a kitchen novice, CookMaster is designed to inspire and assist you on your culinary journey.
+# <h3>Boulevard is your go-to app for all things cooking, bringing you a world of culinary delights right to your fingertips. Whether you're a seasoned chef or a kitchen novice, CookMaster is designed to inspire and assist you on your culinary journey.</h3>
 
 # Features:
 
-# Vast Recipe Library: Access thousands of mouth-watering recipes from various cuisines around the globe. From appetizers to desserts, CookMaster has something for every taste and occasion.
+# <h3>Vast Recipe Library: Access thousands of mouth-watering recipes from various cuisines around the globe. From appetizers to desserts, CookMaster has something for every taste and occasion.</h3>
 
-# Personalized Recommendations: Tailored recipe suggestions based on your dietary preferences, cooking skill level, and favorite ingredients ensure you'll always find something perfect to cook.
+# <h3>Personalized Recommendations: Tailored recipe suggestions based on your dietary preferences, cooking skill level, and favorite ingredients ensure you'll always find something perfect to cook.</h3>
 
-# Smart Search: Find recipes quickly and easily by searching for specific dishes, ingredients, or even dietary restrictions. Our intelligent search algorithm delivers accurate results every time.
+# <h3>Smart Search: Find recipes quickly and easily by searching for specific dishes, ingredients, or even dietary restrictions. Our intelligent search algorithm delivers accurate results every time.</h3>
 
 # Step-by-Step Instructions: Detailed instructions accompanied by high-quality images guide you through each recipe, making cooking a breeze even for beginners.
 
