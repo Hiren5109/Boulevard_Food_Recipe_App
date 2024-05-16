@@ -8,7 +8,7 @@
 
 # <h3>Vast Recipe Library: Access thousands of mouth-watering recipes from various cuisines around the globe. From appetizers to desserts, Boulevard has something for every taste and occasion.</h3>
 
-# <img src="\Project Images\App.jpg" height=250px width=200px />
+# <img src="\Project Images\Recipe Page.jpg" height=250px width=200px />
 
 # <h3>Personalized Recommendations: Tailored recipe suggestions based on your dietary preferences, cooking skill level, and favorite ingredients ensure you'll always find something perfect to cook.</h3>
 
