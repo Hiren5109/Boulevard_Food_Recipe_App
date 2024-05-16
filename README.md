@@ -33,4 +33,4 @@
 
 # <h3>Share with Friends: Impress your friends and family by sharing your favorite recipes via social media, email, or messaging apps directly from the app.</h3>
 
-# <img src="\Project Images\Share Recipe.jpg" height=200px width=200px>
+# <img src="\Project Images\Share Recipe.jpg" height=200px width=200px align-item="center">
